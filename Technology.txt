@@ -1,0 +1,30 @@
+What was the name of the first electric programmable computer developed by Tommy Flowers?
+Turing
+ENIAC
+Colossus
+EDSAC
+3
+Who invented the telephone?
+Thomas Edison
+Alexander Graham Bell 
+Isaac Newton
+Nicola Tesla
+2
+Which industry developed the C programming language?
+Dell
+Bell Labs  
+Shell
+Microsoft
+2
+How many keys does a keyboard usually have?
+40
+50
+200
+104 
+4
+When was 'Bertie the Brain' the first videogame invented?
+1950 
+1958
+1960
+1972
+1
